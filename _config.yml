@@ -1,0 +1,2 @@
+theme: jekyll-theme-midnight
+include: [_biblio, ~biblio]
