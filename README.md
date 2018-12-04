@@ -12,4 +12,4 @@
 
 --------
 
-当前书库目录（仅上传了txt文本）：[TREE.txt](TREE.txt)
+当前书库目录（仅上传了txt文本）：[TREE.txt](https://liblio.butfly.net/TREE.txt)
