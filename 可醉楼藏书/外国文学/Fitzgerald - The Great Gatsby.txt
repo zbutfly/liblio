@@ -1,19 +1,13 @@
 The Great Gatsby
 F. Scott Fitzgerald
 
-
-
 Then wear the gold hat, if that will move her;
 If you can bounce high, bounce for her too,
 Till she cry "Lover, gold-hatted, high-bouncing lover,
 I must have you!"
-	--THOMAS PARKE D'INVILLIERS 
-	
+	--THOMAS PARKE D'INVILLIERS
 
-	
-	
-Chapter 1 
-
+Chapter 1
 
 In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
 	"Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."
@@ -30,7 +24,7 @@ In my younger and more vulnerable years my father gave me some advice that I've 
 	There was so much to read for one thing and so much fine health to be pulled down out of the young breath-giving air. I bought a dozen volumes on banking and credit and investment securities and they stood on my shelf in red and gold like new money from the mint, promising to unfold the shining secrets that only Midas and Morgan and Maecenas knew. And I had the high intention of reading many other books besides.
 	I was rather literary in college--one year I wrote a series of very solemn and obvious editorials for the "Yale News"--and now I was going to bring back all such things into my life and become again that most limited of all specialists, the "well-rounded man." This isn't just an epigram--life is much more successfully looked at from a single window, after all.
 	It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western Hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals--like the egg in the Columbus story they are both crushed flat at the contact end--but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead. To the wingless a more arresting phenomenon is their dissimilarity in every particular except shape and size.
-	I lived at West Egg, the--well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard--it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool and more than forty acres of lawn and garden. It was Gatsby's mansion.
+	I lived at West Egg, the--well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard--it was a factual imitation of some Hé­Œel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool and more than forty acres of lawn and garden. It was Gatsby's mansion.
 	Or rather, as I didn't know Mr. Gatsby it was a mansion inhabited by a gentleman of that name. My own house was an eye-sore, but it was a small eye-sore, and it had been overlooked, so I had a view of the water, a partial view of my neighbor's lawn, and the consoling proximity of millionaires--all for eighty dollars a month.
 	Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans. Daisy was my second cousin once removed and I'd known Tom in college. And just after the war I spent two days with them in Chicago.
 	Her husband, among various physical accomplishments, had been one of the most powerful ends that ever played football at New Haven--a national figure in a way, one of those men who reach such an acute limited excellence at twenty-one that everything afterward savors of anti-climax. His family were enormously wealthy--even in college his freedom with money was a matter for reproach--but now he'd left Chicago and come east in a fashion that rather took your breath away: for instance he'd brought down a string of polo ponies from Lake Forest.
@@ -193,7 +187,6 @@ In my younger and more vulnerable years my father gave me some advice that I've 
 	Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red gas-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard. The wind had blown off, leaving a loud bright night with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life. The silhouette of a moving cat wavered across the moonlight and turning my head to watch it I saw that I was not alone--fifty feet away a figure had emerged from the shadow of my neighbor's mansion and was standing with his hands in his pockets regarding the silver pepper of the stars. Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out to determine what share was his of our local heavens.
 	I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn't call to him for he gave a sudden intimation that he was content to be alone--he stretched out his arms toward the dark water in a curious way, and far as I was from him I could have sworn he was trembling. Involuntarily I glanced seaward--and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
 
-
 Chapter 2
 
 About half way between West Egg and New York the motor-road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land. This is a valley of ashes--a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens where ashes take the forms of houses and chimneys and rising smoke and finally, with a transcendent effort, of men who move dimly and already crumbling through the powdery air.
@@ -350,7 +343,6 @@ About half way between West Egg and New York the motor-road hastily joins the ra
 	Brook'n Bridge...."
 	Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning "Tribune" and waiting for the four o'clock train.
 
-
 Chapter 3
 
 There was music from my neighbor's house through the summer nights. In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. At high tide in the afternoon I watched his guests diving from the tower of his raft or taking the sun on the hot sand of his beach while his two motor-boats slit the waters of the Sound, drawing aquaplanes over cataracts of foam. On week-ends his Rolls-Royce became an omnibus, bearing parties to and from the city, between nine in the morning and long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains. And on Mondays eight servants including an extra gardener toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.
@@ -493,7 +485,7 @@ There was music from my neighbor's house through the summer nights. In his blue 
 	"Good night."
 	"Good night." He smiled--and suddenly there seemed to be a pleasant significance in having been among the last to go, as if he had desired it all the time. "Good night, old sport.... Good night."
 	But as I walked down the steps I saw that the evening was not quite over.
-	Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene. In the ditch beside the road, right side up but violently shorn of one wheel, rested a new coupé which had left Gatsby's drive not two minutes before. The sharp jut of a wall accounted for the detachment of the wheel which was now getting considerable attention from half a dozen curious chauffeurs. However, as they had left their cars blocking the road a harsh discordant din from those in the rear had been audible for some time and added to the already violent confusion of the scene.
+	Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene. In the ditch beside the road, right side up but violently shorn of one wheel, rested a new coup?which had left Gatsby's drive not two minutes before. The sharp jut of a wall accounted for the detachment of the wheel which was now getting considerable attention from half a dozen curious chauffeurs. However, as they had left their cars blocking the road a harsh discordant din from those in the rear had been audible for some time and added to the already violent confusion of the scene.
 	A man in a long duster had dismounted from the wreck and now stood in the middle of the road, looking from the car to the tire and from the tire to the observers in a pleasant, puzzled way.
 	"See!" he explained. "It went in the ditch."
 	The fact was infinitely astonishing to him--and I recognized first the unusual quality of wonder and then the man--it was the late patron of Gatsby's library.
@@ -509,7 +501,7 @@ There was music from my neighbor's house through the summer nights. In his blue 
 	"Do you want to commit suicide?"
 	"You're lucky it was just a wheel! A bad driver and not even TRYing!"
 	"You don't understand," explained the criminal. "I wasn't driving. There's another man in the car."
-	The shock that followed this declaration found voice in a sustained "Ah-h-h!" as the door of the coupé swung slowly open. The crowd--it was now a crowd--stepped back involuntarily and when the door had opened wide there was a ghostly pause. Then, very gradually, part by part, a pale dangling individual stepped out of the wreck, pawing tentatively at the ground with a large uncertain dancing shoe.
+	The shock that followed this declaration found voice in a sustained "Ah-h-h!" as the door of the coup?swung slowly open. The crowd--it was now a crowd--stepped back involuntarily and when the door had opened wide there was a ghostly pause. Then, very gradually, part by part, a pale dangling individual stepped out of the wreck, pawing tentatively at the ground with a large uncertain dancing shoe.
 	Blinded by the glare of the headlights and confused by the incessant groaning of the horns the apparition stood swaying for a moment before he perceived the man in the duster.
 	"Wha's matter?" he inquired calmly. "Did we run outa gas?"
 	"Look!"
@@ -546,7 +538,6 @@ There was music from my neighbor's house through the summer nights. In his blue 
 	Her grey, sun-strained eyes stared straight ahead, but she had deliberately shifted our relations, and for a moment I thought I loved her. But I am slow-thinking and full of interior rules that act as brakes on my desires, and I knew that first I had to get myself definitely out of that tangle back home. I'd been writing letters once a week and signing them: "Love, Nick," and all I could think of was how, when that certain girl played tennis, a faint mustache of perspiration appeared on her upper lip. Nevertheless there was a vague understanding that had to be tactfully broken off before I was free.
 	Every one suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.
 
-
 Chapter 4
 
 On Sunday morning while church bells rang in the villages along shore the world and its mistress returned to Gatsby's house and twinkled hilariously on his lawn.
@@ -564,7 +555,7 @@ On Sunday morning while church bells rang in the villages along shore the world 
 	A man named Klipspringer was there so often and so long that he became known as "the boarder"--I doubt if he had any other home. Of theatrical people there were Gus Waize and Horace O'Donavan and Lester Meyer and George Duckweed and Francis Bull. Also from New York were the Chromes and the Backhyssons and the Dennickers and Russel Betty and the Corrigans and the Kellehers and the Dewars and the Scullys and S. W.
 	Belcher and the Smirkes and the young Quinns, divorced now, and Henry L. Palmetto who killed himself by jumping in front of a subway train in Times Square.
 	Benny McClenahan arrived always with four girls. They were never quite the same ones in physical person but they were so identical one with another that it inevitably seemed they had been there before. I have forgotten their names--Jaqueline, I think, or else Consuela or Gloria or Judy or June, and their last names were either the melodious names of flowers and months or the sterner ones of the great American capitalists whose cousins, if pressed, they would confess themselves to be.
-	In addition to all these I can remember that Faustina O'Brien came there at least once and the Baedeker girls and young Brewer who had his nose shot off in the war and Mr. Albrucksburger and Miss Haag, his fiancée, and Ardita Fitz-Peters, and Mr. P. Jewett, once head of the American Legion, and Miss Claudia Hip with a man reputed to be her chauffeur, and a prince of something whom we called Duke and whose name, if I ever knew it, I have forgotten.
+	In addition to all these I can remember that Faustina O'Brien came there at least once and the Baedeker girls and young Brewer who had his nose shot off in the war and Mr. Albrucksburger and Miss Haag, his fiancé–‘, and Ardita Fitz-Peters, and Mr. P. Jewett, once head of the American Legion, and Miss Claudia Hip with a man reputed to be her chauffeur, and a prince of something whom we called Duke and whose name, if I ever knew it, I have forgotten.
 	All these people came to Gatsby's house in the summer.
 	At nine o'clock, one morning late in July Gatsby's gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three noted horn. It was the first time he had called on me though I had gone to two of his parties, mounted in his hydroplane, and, at his urgent invitation, made frequent use of his beach.
 	"Good morning, old sport. You're having lunch with me today and I thought we'd ride up together."
@@ -747,7 +738,6 @@ One October day in nineteen-seventeen----
 	We passed a barrier of dark trees, and then the facade of Fifty-ninth Street, a block of delicate pale light, beamed down into the park.
 	Unlike Gatsby and Tom Buchanan I had no girl whose disembodied face floated along the dark cornices and blinding signs and so I drew up the girl beside me, tightening my arms. Her wan, scornful mouth smiled and so I drew her up again, closer, this time to my face.
 
-
 Chapter 5
 
 When I came home to West Egg that night I was afraid for a moment that my house was on fire. Two o'clock and the whole corner of the peninsula was blazing with light which fell unreal on the shrubbery and made thin elongating glints upon the roadside wires. Turning a corner I saw that it was Gatsby's house, lit from tower to cellar.
@@ -920,7 +910,6 @@ When I came home to West Egg that night I was afraid for a moment that my house 
 	As I watched him he adjusted himself a little, visibly. His hand took hold of hers and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most with its fluctuating, feverish warmth because it couldn't be over-dreamed--that voice was a deathless song.
 	They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn't know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went out of the room and down the marble steps into the rain, leaving them there together.
 
-
 Chapter 6
 
 About this time an ambitious young reporter from New York arrived one morning at Gatsby's door and asked him if he had anything to say.
@@ -1074,7 +1063,6 @@ About this time an ambitious young reporter from New York arrived one morning at
 	His heart beat faster and faster as Daisy's white face came up to his own. He knew that when he kissed this girl, and forever wed his unutterable visions to her perishable breath, his mind would never romp again like the mind of God. So he waited, listening for a moment longer to the tuning fork that had been struck upon a star. Then he kissed her. At his lips' touch she blossomed for him like a flower and the incarnation was complete.
 	Through all he said, even through his appalling sentimentality, I was reminded of something--an elusive rhythm, a fragment of lost words, that I had heard somewhere a long time ago. For a moment a phrase tried to take shape in my mouth and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air. But they made no sound and what I had almost remembered was uncommunicable forever.
 
-
 Chapter 7
 
 It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night--and, as obscurely as it had begun, his career as Trimalchio was over.
@@ -1199,7 +1187,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	"Shall we all go in my car?" suggested Gatsby. He felt the hot, green leather of the seat. "I ought to have left it in the shade."
 	"Is it standard shift?" demanded Tom.
 	"Yes."
-	"Well, you take my coupé and let me drive your car to town."
+	"Well, you take my coup?and let me drive your car to town."
 	The suggestion was distasteful to Gatsby.
 	"I don't think there's much gas," he objected.
 	"Plenty of gas," said Tom boisterously. He looked at the gauge.
@@ -1207,7 +1195,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	A pause followed this apparently pointless remark. Daisy looked at Tom frowning and an indefinable expression, at once definitely unfamiliar and vaguely recognizable, as if I had only heard it described in words, passed over Gatsby's face.
 	"Come on, Daisy," said Tom, pressing her with his hand toward Gatsby's car. "I'll take you in this circus wagon."
 	He opened the door but she moved out from the circle of his arm.
-	"You take Nick and Jordan. We'll follow you in the coupé."
+	"You take Nick and Jordan. We'll follow you in the coup?"
 	She walked close to Gatsby, touching his coat with her hand. Jordan and Tom and I got into the front seat of Gatsby's car, Tom pushed the unfamiliar gears tentatively and we shot off into the oppressive heat leaving them out of sight behind.
 	"Did you see that?" demanded Tom.
 	"See what?"
@@ -1245,7 +1233,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	"I've been here too long. I want to get away. My wife and I want to go west."
 	"Your wife does!" exclaimed Tom, startled.
 	"She's been talking about it for ten years." He rested for a moment against the pump, shading his eyes. "And now she's going whether she wants to or not. I'm going to get her away."
-	The coupé flashed by us with a flurry of dust and the flash of a waving hand.
+	The coup?flashed by us with a flurry of dust and the flash of a waving hand.
 	"What do I owe you?" demanded Tom harshly.
 	"I just got wised up to something funny the last two days," remarked Wilson. "That's why I want to get away. That's why I been bothering you about the car."
 	"What do I owe you?"
@@ -1254,10 +1242,10 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	"I'll let you have that car," said Tom. "I'll send it over tomorrow afternoon."
 	That locality was always vaguely disquieting, even in the broad glare of afternoon, and now I turned my head as though I had been warned of something behind. Over the ashheaps the giant eyes of Doctor T. J. Eckleburg kept their vigil but I perceived, after a moment, that other eyes were regarding us with peculiar intensity from less than twenty feet away.
 	In one of the windows over the garage the curtains had been moved aside a little and Myrtle Wilson was peering down at the car. So engrossed was she that she had no consciousness of being observed and one emotion after another crept into her face like objects into a slowly developing picture. Her expression was curiously familiar--it was an expression I had often seen on women's faces but on Myrtle Wilson's face it seemed purposeless and inexplicable until I realized that her eyes, wide with jealous terror, were fixed not on Tom, but on Jordan Baker, whom she took to be his wife.
-	There is no confusion like the confusion of a simple mind, and as we drove away Tom was feeling the hot whips of panic. His wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control. Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and we sped along toward Astoria at fifty miles an hour, until, among the spidery girders of the elevated, we came in sight of the easygoing blue coupé.
+	There is no confusion like the confusion of a simple mind, and as we drove away Tom was feeling the hot whips of panic. His wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control. Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and we sped along toward Astoria at fifty miles an hour, until, among the spidery girders of the elevated, we came in sight of the easygoing blue coup?
 	"Those big movies around Fiftieth Street are cool," suggested Jordan.
 	"I love New York on summer afternoons when every one's away. There's something very sensuous about it--overripe, as if all sorts of funny fruits were going to fall into your hands."
-	The word "sensuous" had the effect of further disquieting Tom but before he could invent a protest the coupé came to a stop and Daisy signalled us to draw up alongside.
+	The word "sensuous" had the effect of further disquieting Tom but before he could invent a protest the coup?came to a stop and Daisy signalled us to draw up alongside.
 	"Where are we going?" she cried.
 	"How about the movies?"
 	"It's so hot," she complained. "You go. We'll ride around and meet you after." With an effort her wit rose faintly, "We'll meet you on some corner. I'll be the man smoking two cigarettes."
@@ -1412,7 +1400,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	"Want any?"
 	"No... I just remembered that today's my birthday."
 	I was thirty. Before me stretched the portentous menacing road of a new decade.
-	It was seven o'clock when we got into the coupé with him and started for Long Island. Tom talked incessantly, exulting and laughing, but his voice was as remote from Jordan and me as the foreign clamor on the sidewalk or the tumult of the elevated overhead. Human sympathy has its limits and we were content to let all their tragic arguments fade with the city lights behind. Thirty--the promise of a decade of loneliness, a thinning list of single men to know, a thinning brief-case of enthusiasm, thinning hair. But there was Jordan beside me who, unlike Daisy, was too wise ever to carry well-forgotten dreams from age to age. As we passed over the dark bridge her wan face fell lazily against my coat's shoulder and the formidable stroke of thirty died away with the reassuring pressure of her hand.
+	It was seven o'clock when we got into the coup?with him and started for Long Island. Tom talked incessantly, exulting and laughing, but his voice was as remote from Jordan and me as the foreign clamor on the sidewalk or the tumult of the elevated overhead. Human sympathy has its limits and we were content to let all their tragic arguments fade with the city lights behind. Thirty--the promise of a decade of loneliness, a thinning list of single men to know, a thinning brief-case of enthusiasm, thinning hair. But there was Jordan beside me who, unlike Daisy, was too wise ever to carry well-forgotten dreams from age to age. As we passed over the dark bridge her wan face fell lazily against my coat's shoulder and the formidable stroke of thirty died away with the reassuring pressure of her hand.
 	So we drove on toward death through the cooling twilight.
 	The young Greek, Michaelis, who ran the coffee joint beside the ashheaps was the principal witness at the inquest. He had slept through the heat until after five, when he strolled over to the garage and found George Wilson sick in his office--really sick, pale as his own pale hair and shaking all over. Michaelis advised him to go to bed but Wilson refused, saying that he'd miss a lot of business if he did.
 	While his neighbor was trying to persuade him a violent racket broke out overhead.
@@ -1429,7 +1417,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	"Wreck!" said Tom. "That's good. Wilson'll have a little business at last."
 	He slowed down, but still without any intention of stopping until, as we came nearer, the hushed intent faces of the people at the garage door made him automatically put on the brakes.
 	"We'll take a look," he said doubtfully, "just a look."
-	I became aware now of a hollow, wailing sound which issued incessantly from the garage, a sound which as we got out of the coupé and walked toward the door resolved itself into the words "Oh, my God!" uttered over and over in a gasping moan.
+	I became aware now of a hollow, wailing sound which issued incessantly from the garage, a sound which as we got out of the coup?and walked toward the door resolved itself into the words "Oh, my God!" uttered over and over in a gasping moan.
 	"There's some bad trouble here," said Tom excitedly.
 	He reached up on tiptoes and peered over a circle of heads into the garage which was lit only by a yellow light in a swinging wire basket overhead. Then he made a harsh sound in his throat and with a violent thrusting movement of his powerful arms pushed his way through.
 	The circle closed up again with a running murmur of expostulation; it was a minute before I could see anything at all. Then new arrivals disarranged the line and Jordan and I were pushed suddenly inside.
@@ -1462,21 +1450,21 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	Watching Tom I saw the wad of muscle back of his shoulder tighten under his coat. He walked quickly over to Wilson and standing in front of him seized him firmly by the upper arms.
 	"You've got to pull yourself together," he said with soothing gruffness.
 	Wilson's eyes fell upon Tom; he started up on his tiptoes and then would have collapsed to his knees had not Tom held him upright.
-	"Listen," said Tom, shaking him a little. "I just got here a minute ago, from New York. I was bringing you that coupé we've been talking about.
+	"Listen," said Tom, shaking him a little. "I just got here a minute ago, from New York. I was bringing you that coup?we've been talking about.
 	That yellow car I was driving this afternoon wasn't mine, do you hear? I haven't seen it all afternoon."
 	Only the Negro and I were near enough to hear what he said but the policeman caught something in the tone and looked over with truculent eyes.
 	"What's all that?" he demanded.
 	"I'm a friend of his." Tom turned his head but kept his hands firm on Wilson's body. "He says he knows the car that did it.... It was a yellow car."
 	Some dim impulse moved the policeman to look suspiciously at Tom.
 	"And what color's your car?"
-	"It's a blue car, a coupé."
+	"It's a blue car, a coup?"
 	"We've come straight from New York," I said.
 	Some one who had been driving a little behind us confirmed this and the policeman turned away.
 	"Now, if you'll let me have that name again correct----"
 	Picking up Wilson like a doll Tom carried him into the office, set him down in a chair and came back.
 	"If somebody'll come here and sit with him!" he snapped authoritatively. He watched while the two men standing closest glanced at each other and went unwillingly into the room. Then Tom shut the door on them and came down the single step, his eyes avoiding the table. As he passed close to me he whispered "Let's get out."
 	Self consciously, with his authoritative arms breaking the way, we pushed through the still gathering crowd, passing a hurried doctor, case in hand, who had been sent for in wild hope half an hour ago.
-	Tom drove slowly until we were beyond the bend--then his foot came down hard and the coupé raced along through the night. In a little while I heard a low husky sob and saw that the tears were overflowing down his face.
+	Tom drove slowly until we were beyond the bend--then his foot came down hard and the coup?raced along through the night. In a little while I heard a low husky sob and saw that the tears were overflowing down his face.
 	"The God Damn coward!" he whimpered. "He didn't even stop his car."
 	The Buchanans' house floated suddenly toward us through the dark rustling trees. Tom stopped beside the porch and looked up at the second floor where two windows bloomed with light among the vines.
 	"Daisy's home," he said. As we got out of the car he glanced at me and frowned slightly.
@@ -1528,7 +1516,6 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 	He shook his head.
 	"I want to wait here till Daisy goes to bed. Good night, old sport."
 	He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence marred the sacredness of the vigil. So I walked away and left him standing there in the moonlight--watching over nothing.
-
 
 Chapter 8
 
@@ -1593,7 +1580,6 @@ I couldn't sleep all night; a fog-horn was groaning incessantly on the Sound, an
 	"You weren't so nice to me last night."
 	"How could it have mattered then?"
 
-
 Silence for a moment. Then--
 
 "However--I want to see you."
@@ -1656,11 +1642,10 @@ Silence for a moment. Then--
 	Then he gave instructions that the open car wasn't to be taken out under any circumstances--and this was strange because the front right fender needed repair.
 	Gatsby shouldered the mattress and started for the pool. Once he stopped and shifted it a little, and the chauffeur asked him if he needed help, but he shook his head and in a moment disappeared among the yellowing trees.
 	No telephone message arrived but the butler went without his sleep and waited for it until four o'clock--until long after there was any one to give it to if it came. I have an idea that Gatsby himself didn't believe it would come and perhaps he no longer cared. If that was true he must have felt that he had lost the old warm world, paid a high price for living too long with a single dream. He must have looked up at an unfamiliar sky through frightening leaves and shivered as he found what a grotesque thing a rose is and how raw the sunlight was upon the scarcely created grass. A new world, material without being real, where poor ghosts, breathing dreams like air, drifted fortuitously about... like that ashen, fantastic figure gliding toward him through the amorphous trees.
-	The chauffeur--he was one of Wolfshiem's protégés--heard the shots--afterward he could only say that he hadn't thought anything much about them. I drove from the station directly to Gatsby's house and my rushing anxiously up the front steps was the first thing that alarmed any one. But they knew then, I firmly believe. With scarcely a word said, four of us, the chauffeur, butler, gardener and I, hurried down to the pool.
+	The chauffeur--he was one of Wolfshiem's proté–“é–Ÿ--heard the shots--afterward he could only say that he hadn't thought anything much about them. I drove from the station directly to Gatsby's house and my rushing anxiously up the front steps was the first thing that alarmed any one. But they knew then, I firmly believe. With scarcely a word said, four of us, the chauffeur, butler, gardener and I, hurried down to the pool.
 	There was a faint, barely perceptible movement of the water as the fresh flow from one end urged its way toward the drain at the other.
 	With little ripples that were hardly the shadows of waves, the laden mattress moved irregularly down the pool. A small gust of wind that scarcely corrugated the surface was enough to disturb its accidental course with its accidental burden. The touch of a cluster of leaves revolved it slowly, tracing, like the leg of compass, a thin red circle in the water.
 	It was after we started with Gatsby toward the house that the gardener saw Wilson's body a little way off in the grass, and the holocaust was complete.
-
 
 Chapter 9
 
@@ -1687,19 +1672,19 @@ After two years I remember the rest of that day, and that night and the next day
 	Some one started to ask me questions but I broke away and going upstairs looked hastily through the unlocked parts of his desk--he'd never told me definitely that his parents were dead. But there was nothing--only the picture of Dan Cody, a token of forgotten violence staring down from the wall.
 	Next morning I sent the butler to New York with a letter to Wolfshiem which asked for information and urged him to come out on the next train. That request seemed superfluous when I wrote it. I was sure he'd start when he saw the newspapers, just as I was sure there'd be a wire from Daisy before noon--but neither a wire nor Mr. Wolfshiem arrived, no one arrived except more police and photographers and newspaper men.
 	When the butler brought back Wolfshiem's answer I began to have a feeling of defiance, of scornful solidarity between Gatsby and me against them all.
-	
-	_Dear Mr. Carraway. 
-	
+
+	_Dear Mr. Carraway.
+
 	This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
 
 	Yours truly
 
-		MEYER WOLFSHIEM_ 
-		
+		MEYER WOLFSHIEM_
+
 	and then hasty addenda beneath:
-	
+
 	_Let me know about the funeral etc do not know his family at all._
-	
+
 	When the phone rang that afternoon and Long Distance said Chicago was calling I thought this would be Daisy at last. But the connection came through as a man's voice, very thin and far away.
 	"This is Slagle speaking...."
 	"Yes?" The name was unfamiliar.
@@ -1795,7 +1780,7 @@ After two years I remember the rest of that day, and that night and the next day
 	"Look here, this is a book he had when he was a boy. It just shows you."
 	He opened it at the back cover and turned it around for me to see.
 	On the last fly-leaf was printed the word SCHEDULE, and the date September 12th, 1906. And underneath:
-	
+
 	Rise from bed................ 6.00 A.M.
 	Dumbbell exercise and wall-scaling...... 6.15-6.30 "
 	Study electricity, etc............ 7.15-8.15 "
@@ -1865,7 +1850,6 @@ After two years I remember the rest of that day, and that night and the next day
 	Its vanished trees, the trees that had made way for Gatsby's house, had once pandered in whispers to the last and greatest of all human dreams; for a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.
 	And as I sat there brooding on the old, unknown world, I thought of Gatsby's wonder when he first picked out the green light at the end of Daisy's dock. He had come a long way to this blue lawn and his dream must have seemed so close that he could hardly fail to grasp it. He did not know that it was already behind him, somewhere back in that vast obscurity beyond the city, where the dark fields of the republic rolled on under the night.
 	Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter--tomorrow we will run faster, stretch out our arms farther.... And one fine morning---- So we beat on, boats against the current, borne back ceaselessly into the past.
-
 
 THE END
 
