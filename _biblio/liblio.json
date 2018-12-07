@@ -1,5 +1,9 @@
 {
 	"repos": "liblio",
-	"dirs": ["可醉楼藏书"],
-	"trackid": "F5wZZNEhZNjZWBUAqF2tUD-XwFrKDIc5wazsqwhK7a4"
+	"shelf": "可醉楼藏书",
+	"trackid": "F5wZZNEhZNjZWBUAqF2tUD-XwFrKDIc5wazsqwhK7a4",
+	"secrets": {
+		"5dd99a0c448bf5a3ac1164c5ab5c9acf": "email",
+		"737341c96479e1eb39d681c4f3d3446c": "phone"
+	}
 }
