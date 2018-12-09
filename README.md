@@ -8,7 +8,7 @@
 
 托管于本人的静态书库项目：[Biblio](http://biblio.butfly.net/)
 
-可以访问：[可醉楼藏书](https://biblio.butfly.net/?s=https://liblio.butfly.net)
+可以访问：[Inebriatable Libliotheca - 可醉楼藏书](https://biblio.butfly.net#fe63a7cccabfd318da7e322502e1c2fe:inebriatable-libliotheca)
 
 --------
 
